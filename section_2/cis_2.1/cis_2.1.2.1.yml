@@ -15,7 +15,8 @@ file:
     meta:
       server: 1
       workstation: 1
-      CIS_ID: 2.1.2.1
+      CIS_ID:
+        - 2.1.2.1
       CISv8:
       - 8.4
       CISv8_IG1: false
@@ -39,7 +40,8 @@ file:
     meta:
       server: 1
       workstation: 1
-      CIS_ID: 2.1.2.1
+      CIS_ID:
+        - 2.1.2.1
       CISv8:
       - 8.4
       CISv8_IG1: false

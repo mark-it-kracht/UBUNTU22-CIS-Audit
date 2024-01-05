@@ -14,7 +14,8 @@ command:
    meta:
       server: 1
       workstation: 1
-      CIS_ID: 2.2.15
+      CIS_ID:
+        - 2.2.15
       CISv8:
       - 4.8
       CISv8_IG1: false
@@ -42,7 +43,8 @@ file:
     meta:
       server: 1
       workstation: 1
-      CIS_ID: 2.2.15
+      CIS_ID:
+        - 2.2.15
       CISv8:
       - 4.8
       CISv8_IG1: false

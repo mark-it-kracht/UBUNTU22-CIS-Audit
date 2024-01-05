@@ -10,7 +10,8 @@ command:
     meta:
       server: 1
       workstation: 2
-      CIS_ID: 1.2.1
+      CIS_ID:
+        - 1.2.1
       CISv8: 7.3
       CISv8_IG1: true
       CISv8_IG2: true

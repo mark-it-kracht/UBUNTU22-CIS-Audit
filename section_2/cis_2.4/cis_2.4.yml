@@ -10,7 +10,8 @@ command:
     meta:
       server: 1
       workstation: 1
-      CIS_ID: 2.4
+      CIS_ID:
+        - 2.4
       CISv8:
       - 4.8
       CISv8_IG1: false
