@@ -8,7 +8,7 @@ package:
       server: 1
       workstation: 1
       CIS_ID:
-      - 5.2
+      - "5.2"
       Mitre_Techniques:
       - T1078
       - T1078.001
